@@ -1,0 +1,62 @@
+---
+permalink: rhel-install/task-upgrade-openjdk-on-linux-ocum.html 
+sidebar: sidebar 
+keywords: oncommand, workflow, automation, upgrade, jre, linux 
+summary: 'Vous pouvez mettre à niveau vers une version plus récente de Java Runtime Environment (JRE) sur le serveur Linux sur lequel OnCommand Workflow Automation est installé pour obtenir des correctifs pour les vulnérabilités de sécurité.' 
+---
+= Mise à niveau de JRE sous Linux
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Vous pouvez mettre à niveau vers une version plus récente de Java Runtime Environment (JRE) sur le serveur Linux sur lequel OnCommand Workflow Automation est installé pour obtenir des correctifs pour les vulnérabilités de sécurité.
+
+Vous devez disposer de privilèges root pour le système Linux sur lequel WFA est installé.
+
+
+NOTE: Vous pouvez effectuer la mise à niveau d'une mise à jour de JRE 1.8 vers une mise à jour ultérieure de JRE 1.8. Vous ne pouvez pas effectuer la mise à niveau vers une version majeure ultérieure de JRE telle que Java 9. Par exemple, vous ne pouvez pas effectuer de mise à jour de Java 8 144 (64 bits) vers Java 8 Update 151 (64 bits) ou de Java 8 vers Java 9.
+
+.Étapes
+. Connectez-vous en tant qu'utilisateur root sur la machine hôte WFA.
+. Téléchargez la version appropriée de Java (64 bits) sur le système cible.
+. Avant de mettre à niveau JRE, exécutez les commandes suivantes pour lister les clés de chiffrement et de licence pour WFA :
++
+`/opt/netapp/wfa/bin/wfa -K`
+
++
+La clé de cryptage est alors renvoyée, par exemple :
+
++
+`Key: oidMG6GbIuHjdZG30JgFng==`
+
++
+`/opt/netapp/wfa/bin/wfa --license`
+
++
+La clé de licence est alors renvoyée, par exemple :
+
++
+`Key: MS8xLzIwOTkgMTE6NTkgUE0=`
+
++
+Enregistrez ces clés comme elles sont nécessaires pour la reconfiguration des clés lors de la mise à niveau de JRE.
+
+. Arrêter les services WFA :
++
+`service wfa-server stop`
+
+. Installez la dernière version de JRE sur le système.
+. Pour mettre à niveau JRE, reconfigurez les clés enregistrées à l'étape 3 à l'aide des commandes suivantes :
++
+`/opt/netapp/wfa/bin/wfa --license=MS8xLzIwOTkgMTE6NTkgUE0=`
+
++
+`/opt/netapp/wfa/bin/wfa -K=oidMG6GbIuHjdZG30JgFng==`
+
+. Démarrer les services WFA :
++
+`service wfa-server start`
+
+

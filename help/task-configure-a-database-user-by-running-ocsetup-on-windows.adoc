@@ -1,0 +1,49 @@
+---
+permalink: help/task-configure-a-database-user-by-running-ocsetup-on-windows.html 
+sidebar: sidebar 
+keywords: configure, database, user, running, ocsetup, windows 
+summary: 'Vous pouvez exécuter le fichier ocsetup sur le serveur OnCommand Unified Manager pour configurer l"accès en lecture seule de la base de données OnCommand Unified Manager à OnCommand Workflow Automation.' 
+---
+= Configurez un utilisateur de base de données en exécutant ocsetup sous Windows
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Vous pouvez exécuter le `ocsetup` Fichier du serveur OnCommand Unified Manager pour configurer l'accès en lecture seule de la base de données OnCommand Unified Manager à OnCommand Workflow Automation.
+
+.Étapes
+. Téléchargez le `wfa_ocsetup.exe` Fichier dans un répertoire du serveur OnCommand Unified Manager à partir de l'emplacement suivant :
++
+_Https:_//WFA_Server_IP/download/wfa_ocsetup.exe.
+
++
+`WFA_Server_IP` Est l'adresse IP (IPv4 ou adresse IPv6) de votre serveur WFA.
+
++
+Si vous avez spécifié un port non par défaut pour WFA, vous devez inclure le numéro de port comme suit :
+
++
+_https:_//wfa_server_ip:port/download/wfa_ocsetup.exe.
+
++
+`port` Le numéro de port TCP que vous avez utilisé pour le serveur WFA lors de l'installation.
+
++
+Si vous spécifiez une adresse IPv6, vous devez l'inclure entre crochets.
+
+. Double-cliquez sur le `wfa_ocsetup.exe` fichier.
+. Lisez les informations de l'assistant d'installation et cliquez sur *Suivant*.
+. Parcourez ou saisissez l'emplacement JRE et cliquez sur *Suivant*.
+. Saisissez un nom d'utilisateur et un mot de passe pour remplacer les informations d'identification par défaut.
++
+Un nouveau compte utilisateur de base de données est créé avec accès à la base de données OnCommand Unified Manager.
+
++
+
+NOTE: Si vous ne créez pas de compte d'utilisateur, les informations d'identification par défaut sont utilisées. Vous devez créer un compte utilisateur pour des raisons de sécurité.
+
+. Cliquez sur *Suivant* et examinez les résultats.
+. Cliquez sur *Suivant*, puis sur *Terminer* pour terminer l'assistant.
+

@@ -1,0 +1,66 @@
+---
+permalink: windows-install/task-create-a-certificate-signing-request-for-workflow-automation-windows.html 
+sidebar: sidebar 
+keywords: workflow automation, windows, create, certificate, signing, request 
+summary: 'Vous pouvez créer une demande de signature de certificat (RSC) dans Windows afin de pouvoir utiliser le certificat SSL signé par une autorité de certification (CA) au lieu du certificat SSL par défaut pour Workflow Automation (WFA).' 
+---
+= Créer une demande de signature de certificat pour Workflow Automation
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Vous pouvez créer une demande de signature de certificat (RSC) dans Windows afin de pouvoir utiliser le certificat SSL signé par une autorité de certification (CA) au lieu du certificat SSL par défaut pour Workflow Automation (WFA).
+
+.Ce dont vous avez besoin, 8217;ll
+* Vous devez disposer de privilèges d'administrateur Windows sur le serveur WFA.
+* Vous devez avoir remplacé le certificat SSL par défaut fourni par WFA.
+
+
+Le chemin d'installation par défaut de WFA est utilisé dans cette procédure. Si vous avez modifié le chemin par défaut lors de l'installation, vous devez utiliser le chemin d'installation personnalisé de WFA.
+
+.Étapes
+. Connectez-vous en tant qu'utilisateur administrateur sur la machine hôte WFA.
+. Ouvrez une invite de commandes sur le serveur WFA, puis modifiez les répertoires à l'emplacement suivant : `WFA_install_location\WFA\jre\bin`
+. Créer une RSC :
++
+`keytool -certreq -keystore WFA_install_location\WFA\jboss\standalone\configuration\keystore\wfa.keystore -alias "ssl keystore" -file C:\file_name.csr`
+
++
+_File_name_ est le nom du fichier CSR.
+
+. Lorsque vous y êtes invité, indiquez le mot de passe (par défaut ou nouveau).
++
+`changeit` est le mot de passe par défaut. Si vous ne souhaitez pas utiliser le mot de passe par défaut, vous devez modifier l'attribut de mot de passe de l'élément SSL dans `standalone-full.xml` fichier du `WFA_install_location\WFA\jboss\standalone\configuration\` emplacement.
+
++
+*Exemple*
+
++
+[listing]
+----
+<ssl name="ssl" password="new_password" certificate-key-file="${jboss.server.config.dir}/keystore/wfa.keystore"
+----
+. Envoyer le `file_name.csr` Déposer le certificat à l'autorité de certification pour obtenir un certificat signé.
++
+Consultez le site Web de l'AC pour plus de détails.
+
+. Téléchargez un certificat de chaîne à partir de l'autorité de certification, puis importez le certificat de chaîne dans votre magasin de clés :
++
+`keytool -import -alias "ssl keystore CA certificate" -keystore "WFA_install_location\WFA\jboss\standalone\configuration\keystore\wfa.keystore" -trustcacerts -file C:\chain_cert.cer`
+
++
+`C:\chain_cert.cer` Est le fichier de certificat de chaîne reçu de l'autorité de certification. Le fichier doit être au format X.509.
+
+. Importez le certificat signé que vous avez reçu de l'autorité de certification : `keytool -import -alias "ssl keystore" -keystore "WFA_install_location\WFA\jboss\standalone\configuration\keystore\wfa.keystore" -file C:\certificate.cer`
++
+`C:\certificate.cer` Est le fichier de certificat de chaîne reçu de l'autorité de certification.
+
+. Démarrer les services WFA suivants :
++
+** Base de données NetApp WFA
+** Serveur NetApp WFA
+
+
+

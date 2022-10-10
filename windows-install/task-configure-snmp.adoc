@@ -1,0 +1,42 @@
+---
+permalink: windows-install/task-configure-snmp.html 
+sidebar: sidebar 
+keywords: configure, snmp 
+summary: 'Vous pouvez configurer OnCommand Workflow Automation (WFA) pour envoyer des interruptions SNMP (simple Network Management Protocol) concernant l"état des opérations des flux de travail.' 
+---
+= Configurez SNMP
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Vous pouvez configurer OnCommand Workflow Automation (WFA) pour envoyer des interruptions SNMP (simple Network Management Protocol) concernant l'état des opérations des flux de travail.
+
+L'WFA `.mib` File fournit des informations sur les traps envoyés par le serveur WFA. Le `.mib` le fichier se trouve dans le `<WFA_install_location>\wfa\bin\wfa.mib` Sur le serveur WFA.
+
+
+NOTE: Le serveur WFA envoie toutes les notifications d'interruption avec un identificateur d'objet générique (1.3.6.1.4.1.789.1.1.12.0).
+
+Vous ne pouvez pas utiliser de chaînes de communauté SNMP telles que _community_string@SNMP_host_ pour la configuration SNMP.
+
+.Étapes
+. Connectez-vous à WFA via un navigateur Web en tant qu'utilisateur administrateur, puis accédez au serveur WFA.
+. Cliquez sur *Paramètres* et sous *Configuration*, cliquez sur *SNMP*.
+. Cochez la case *Activer SNMP*.
+. Entrez une adresse IPv4 ou IPv6 ou le nom d'hôte, ainsi que le numéro de port de l'hôte de gestion.
++
+WFA envoie des traps SNMP au numéro de port spécifié. Le numéro de port par défaut est 162.
+
+. Dans la section *notifier le*, cochez une ou plusieurs des cases suivantes :
++
+** L'exécution du workflow a démarré
+** L'exécution du workflow a réussi
+** Échec/échec partiel de l'exécution du workflow
+** Exécution du workflow en attente d'approbation
+** Échec de l'acquisition
+
+
+. Cliquez sur *Envoyer notification de test* pour vérifier les paramètres.
+. Cliquez sur *Enregistrer*.
+

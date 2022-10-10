@@ -1,0 +1,43 @@
+---
+permalink: windows-install/task-upgrade-jre-on-windows-wfa.html 
+sidebar: sidebar 
+keywords: oncommand workflow automation, upgrade, jre 
+summary: 'Vous pouvez mettre à niveau les nouvelles versions de Java Runtime Environment (JRE) vers OnCommand Workflow Automation (WFA) sur le serveur Windows. Vous pouvez effectuer la mise à niveau vers une version plus récente de JRE pour obtenir des correctifs pour les vulnérabilités de sécurité sur le serveur Windows.' 
+---
+= Mettre à niveau JRE
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Vous pouvez mettre à niveau les nouvelles versions de Java Runtime Environment (JRE) vers OnCommand Workflow Automation (WFA) sur le serveur Windows. Vous pouvez effectuer la mise à niveau vers une version plus récente de JRE pour obtenir des correctifs pour les vulnérabilités de sécurité sur le serveur Windows.
+
+Vous devez disposer de privilèges d'administrateur Windows sur le serveur WFA.
+
+Vous pouvez mettre à jour les versions de JRE dans les familles de versions. Par exemple, vous pouvez effectuer une mise à niveau de Java 8 Update 144 (64 bits) vers Java 8 Update 151 (64 bits), mais vous ne pouvez pas effectuer de mise à jour directement de Java 8 vers Java 9.
+
+.Étapes
+. Connectez-vous en tant qu'utilisateur admin sur la machine hôte WFA.
+. Téléchargez et installez la dernière version de Java 8 64 bits à partir du site Oracle sur le système cible.
+. Utilisez la console des services Windows pour arrêter les services WFA suivants :
++
+** WFA Database ou MYSQL57
+** Serveur NetApp WFA
+
+
+. Cliquez sur `updateWFARegistry.vbs` à partir du `<installdir>\WFA\bin\` Chemin d'accès pour mettre à jour la dernière version de JRE dans le registre WFA.
++
+*Exemple*
+
++
+[listing]
+----
+C:\Program Files\NetApp\WFA\bin>cscript.exe
+updateWFARegistry.vbs
+Microsoft (R) Windows Script Host Version 5.8
+Copyright (C) Microsoft Corporation. All rights reserved
+C:\Program Files\NetApp\WFA\bin>
+----
+. Démarrez les services WFA en utilisant la console des services Windows.
+

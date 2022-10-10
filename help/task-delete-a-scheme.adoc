@@ -1,0 +1,28 @@
+---
+permalink: help/task-delete-a-scheme.html 
+sidebar: sidebar 
+keywords: delete, scheme 
+summary: 'Si vous n"en avez plus besoin, vous pouvez supprimer un schéma que vous avez créé à partir de OnCommand Workflow Automation (WFA).' 
+---
+= Supprimer un schéma
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Si vous n'en avez plus besoin, vous pouvez supprimer un schéma que vous avez créé à partir de OnCommand Workflow Automation (WFA).
+
+.Ce dont vous avez besoin, 8217;ll
+* Vous devez avoir installé WFA.
+* Vous devez disposer des privilèges d'administrateur ou des identifiants d'architecte pour WFA.
+
+
+Vous ne pouvez pas supprimer de schémas prédéfinis.
+
+.Étapes
+. Connectez-vous à WFA via un navigateur Web en tant qu'administrateur ou architecte.
+. Cliquez sur *Designer* > *schémas*.
+. Sélectionnez le schéma que vous souhaitez supprimer, puis cliquez sur image:../media/delete_wfa_icon.gif["Icône Supprimer"] dans la barre d'outils.
+. Dans la boîte de dialogue de confirmation *Supprimer le schéma*, cliquez sur *Oui*.
+
