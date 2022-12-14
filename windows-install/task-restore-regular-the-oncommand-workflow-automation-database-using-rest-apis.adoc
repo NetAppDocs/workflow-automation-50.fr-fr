@@ -13,7 +13,7 @@ summary: 'Vous pouvez effectuer une restauration régulière de la base de donn�
 [role="lead"]
 Vous pouvez effectuer une restauration régulière de la base de données OnCommand Workflow Automation (WFA) à l'aide d'API REST. Lors d'une restauration régulière, vous ne pouvez restaurer que la base de données WFA.
 
-.Ce dont vous avez besoin, 8217;ll
+.Ce dont vous avez besoin
 * Vous devez avoir créé un `.zip` Sauvegarde de la base de données WFA.
 * Vous devez disposer d'informations d'identification admin ou Architect.
 * Si vous restaurez la base de données dans le cadre de la procédure de migration, vous devez effectuer une restauration complète.

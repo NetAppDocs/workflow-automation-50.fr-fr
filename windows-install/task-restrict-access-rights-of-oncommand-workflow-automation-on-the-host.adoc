@@ -13,6 +13,7 @@ summary: 'Par défaut, OnCommand Workflow Automation (WFA) exécute les flux de 
 [role="lead"]
 Par défaut, OnCommand Workflow Automation (WFA) exécute les flux de travail en tant qu'administrateur du système hôte. Vous pouvez restreindre les droits WFA sur le système hôte en modifiant les paramètres par défaut.
 
+.Ce dont vous avez besoin
 Vous devez avoir ouvert une session sur le système hôte WFA en tant qu'administrateur.
 
 .Étapes

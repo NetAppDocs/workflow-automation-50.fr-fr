@@ -13,6 +13,7 @@ summary: 'Après avoir installé Workflow Automation (WFA) dans Microsoft Cluste
 [role="lead"]
 Après avoir installé Workflow Automation (WFA) dans Microsoft Cluster Server (MSCS), vous devez configurer WFA pour la haute disponibilité dans MSCS à l'aide des scripts de configuration.
 
+.Ce dont vous avez besoin
 Vous devez avoir créé une sauvegarde de WFA.
 
 .Étapes

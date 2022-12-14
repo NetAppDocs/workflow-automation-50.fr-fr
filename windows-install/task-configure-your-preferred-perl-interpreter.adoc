@@ -13,8 +13,10 @@ summary: 'Par défaut, ActivePerl est installé avec OnCommand Workflow Automati
 [role="lead"]
 Par défaut, ActivePerl est installé avec OnCommand Workflow Automation (WFA). Si vous voulez utiliser une autre distribution Perl, vous pouvez configurer votre distribution Perl préférée pour qu'elle fonctionne avec WFA.
 
+.Ce dont vous avez besoin
 Vous devez avoir installé la distribution Perl requise sur le serveur WFA.
 
+.Description de la tâche
 Vous ne devez pas désinstaller ni écraser l'installation par défaut d'ActivePerl. Vous devez installer votre distribution Perl préférée à un emplacement distinct.
 
 .Étapes

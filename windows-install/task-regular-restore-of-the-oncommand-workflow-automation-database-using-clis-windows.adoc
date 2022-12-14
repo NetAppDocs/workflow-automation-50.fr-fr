@@ -13,7 +13,7 @@ summary: 'Vous pouvez effectuer régulièrement une restauration de la base de d
 [role="lead"]
 Vous pouvez effectuer régulièrement une restauration de la base de données OnCommand Workflow Automation (WFA) à l'aide des API REST. Lors d'une restauration régulière, vous pouvez uniquement sauvegarder la base de données WFA.
 
-.Ce dont vous avez besoin, 8217;ll
+.Ce dont vous avez besoin
 * Vous devez avoir créé une sauvegarde de la base de données WFA.
 * Vous devez disposer des informations d'identification administrateur, des informations d'identification d'architecte ou des informations d'identification de l'utilisateur de sauvegarde.
 

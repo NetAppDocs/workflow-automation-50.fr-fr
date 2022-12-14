@@ -13,6 +13,7 @@ summary: 'Vous pouvez mettre à niveau vers une version plus récente de Java Ru
 [role="lead"]
 Vous pouvez mettre à niveau vers une version plus récente de Java Runtime Environment (JRE) sur le serveur Linux sur lequel OnCommand Workflow Automation est installé pour obtenir des correctifs pour les vulnérabilités de sécurité.
 
+.Ce dont vous avez besoin
 Vous devez disposer de privilèges root pour le système Linux sur lequel WFA est installé.
 
 

@@ -13,8 +13,10 @@ summary: 'Vous pouvez effectuer une sauvegarde complète de la base de données 
 [role="lead"]
 Vous pouvez effectuer une sauvegarde complète de la base de données OnCommand Workflow Automation (WFA) à l'aide de l'interface de ligne de commandes WFA. Dans une sauvegarde complète, la base de données WFA, la configuration WFA et la clé sont sauvegardées.
 
+.Ce dont vous avez besoin
 Vous devez disposer d'informations d'identification administrateur ou d'architecte.
 
+.Description de la tâche
 Dans un environnement à haute disponibilité, vous devez créer des sauvegardes planifiées à l'aide d'API REST. Vous ne pouvez pas créer de sauvegardes via l'interface de ligne de commandes lorsque WFA est en mode de basculement.
 
 Pour plus d'informations, consultez la documentation REST.

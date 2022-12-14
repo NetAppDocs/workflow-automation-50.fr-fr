@@ -13,8 +13,10 @@ summary: 'OnCommand Workflow Automation (WFA) fonctionne avec l"édition Enterpr
 [role="lead"]
 OnCommand Workflow Automation (WFA) fonctionne avec l'édition Enterprise d'ActiveState Perl sur Windows. Vous pouvez effectuer une mise à niveau vers une version plus récente de ActiveState Perl pour obtenir des correctifs pour les vulnérabilités de sécurité sur le serveur Windows.
 
+.Ce dont vous avez besoin
 Vous devez disposer de privilèges d'administrateur Windows sur le serveur WFA. ActiveState Perl ne prend pas en charge les mises à niveau « sur place ».
 
+.Description de la tâche
 WFA 5.0 utilise l'édition Enterprise de ActiveState Perl.
 
 Vous pouvez mettre à niveau à partir de ActiveState Perl 5.16.3 build 1603.14 vers des versions ultérieures. Vous ne pouvez pas effectuer la mise à niveau vers une version majeure d'ActiveState Perl.

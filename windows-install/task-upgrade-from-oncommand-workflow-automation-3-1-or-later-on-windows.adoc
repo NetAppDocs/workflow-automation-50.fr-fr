@@ -13,8 +13,10 @@ summary: 'Vous pouvez effectuer une mise à niveau sans déplacement des donnée
 [role="lead"]
 Vous pouvez effectuer une mise à niveau sans déplacement des données depuis OnCommand Workflow Automation (WFA) 3.1 ou versions ultérieures vers les dernières versions disponibles de WFA afin d'utiliser les nouvelles fonctionnalités et améliorations.
 
+.Ce dont vous avez besoin
 Vous devez avoir téléchargé le `.exe` Fichier binaire du site de support NetApp vers la machine hôte WFA.
 
+.Description de la tâche
 Vous ne pouvez pas installer MySQL seul lors de la mise à niveau à partir de versions antérieures de WFA. Cependant, vous pouvez installer MySQL seul :
 
 * Lors d'une nouvelle installation de WFA 4.2 et version ultérieure ou

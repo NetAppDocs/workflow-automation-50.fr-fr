@@ -13,8 +13,10 @@ summary: 'Vous pouvez mettre à niveau les nouvelles versions de Java Runtime En
 [role="lead"]
 Vous pouvez mettre à niveau les nouvelles versions de Java Runtime Environment (JRE) vers OnCommand Workflow Automation (WFA) sur le serveur Windows. Vous pouvez effectuer la mise à niveau vers une version plus récente de JRE pour obtenir des correctifs pour les vulnérabilités de sécurité sur le serveur Windows.
 
+.Ce dont vous avez besoin
 Vous devez disposer de privilèges d'administrateur Windows sur le serveur WFA.
 
+.Description de la tâche
 Vous pouvez mettre à jour les versions de JRE dans les familles de versions. Par exemple, vous pouvez effectuer une mise à niveau de Java 8 Update 144 (64 bits) vers Java 8 Update 151 (64 bits), mais vous ne pouvez pas effectuer de mise à jour directement de Java 8 vers Java 9.
 
 .Étapes

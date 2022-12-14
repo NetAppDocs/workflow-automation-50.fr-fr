@@ -13,8 +13,10 @@ summary: 'Par défaut, le délai de transaction de la base de données OnCommand
 [role="lead"]
 Par défaut, le délai de transaction de la base de données OnCommand Workflow Automation (WFA) est fixée à 300 secondes. Vous pouvez augmenter la durée du délai par défaut lors de la restauration d'une base de données WFA de grande taille à partir d'une sauvegarde pour éviter toute défaillance potentielle de la restauration de la base de données.
 
+.Ce dont vous avez besoin
 Vous devez avoir ouvert une session sur le système hôte WFA en tant qu'administrateur.
 
+.Description de la tâche
 Le chemin d'installation par défaut de WFA est utilisé dans cette procédure. Si vous avez modifié l'emplacement par défaut lors de l'installation, vous devez utiliser le chemin d'installation WFA modifié.
 
 .Étapes

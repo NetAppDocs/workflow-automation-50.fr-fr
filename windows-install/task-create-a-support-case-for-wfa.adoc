@@ -13,6 +13,7 @@ summary: 'Vous pouvez créer des dossiers de support pour les problèmes liés �
 [role="lead"]
 Vous pouvez créer des dossiers de support pour les problèmes liés à OnCommand Workflow Automation (WFA) qui nécessitent une assistance du support technique. Vous devez utiliser le modèle de triage Technical pour créer un dossier de demande de support.
 
+.Description de la tâche
 Le modèle de hiérarchisation technique de WFA fournit toutes les informations requises pour la création d'un dossier de support. Vous devez utiliser les questions et les informations du modèle de triage Technical pour construire votre problème, ce qui contribue à améliorer le délai de résolution de votre dossier.
 
 .Étapes

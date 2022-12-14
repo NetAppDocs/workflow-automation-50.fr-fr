@@ -13,8 +13,10 @@ summary: 'Si vous souhaitez sauvegarder fréquemment la base de données OnComma
 [role="lead"]
 Si vous souhaitez sauvegarder fréquemment la base de données OnCommand Workflow Automation (WFA), vous pouvez utiliser le script PowerShell fourni avec le pack d'installation de WFA.
 
+.Ce dont vous avez besoin
 Vous devez disposer des informations d'identification de l'utilisateur administrateur, des informations d'identification d'architecte ou des informations d'identification de l'utilisateur de sauvegarde.
 
+.Description de la tâche
 Pour plus d'informations, consultez la documentation REST.
 
 . Ouvrez Windows PowerShell en tant qu'administrateur, puis sauvegardez la base de données WFA :

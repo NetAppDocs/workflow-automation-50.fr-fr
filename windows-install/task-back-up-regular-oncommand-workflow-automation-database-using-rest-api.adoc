@@ -13,6 +13,7 @@ summary: 'Vous pouvez effectuer une sauvegarde régulière de la base de donnée
 [role="lead"]
 Vous pouvez effectuer une sauvegarde régulière de la base de données OnCommand Workflow Automation (WFA) à l'aide des API REST. Lors d'une sauvegarde régulière, seule la base de données WFA est sauvegardée.
 
+.Ce dont vous avez besoin
 Vous devez disposer des identifiants d'administration, d'architecte ou de sauvegarde.
 
 .Étape

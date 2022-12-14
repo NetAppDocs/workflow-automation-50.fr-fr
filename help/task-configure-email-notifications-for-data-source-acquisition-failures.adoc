@@ -13,6 +13,7 @@ summary: 'Vous pouvez contrôler les notifications générées dans OnCommand Wo
 [role="lead"]
 Vous pouvez contrôler les notifications générées dans OnCommand Workflow Automation (WFA) en cas d'échec de l'acquisition d'une source de données. Vous pouvez configurer le seuil et le facteur d'intervalle pour les notifications.
 
+.Ce dont vous avez besoin
 Vous devez avoir configuré les notifications par e-mail dans OnCommand Workflow Automation (WFA).
 
 .Étapes

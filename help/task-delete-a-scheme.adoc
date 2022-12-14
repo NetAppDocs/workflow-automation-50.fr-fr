@@ -13,11 +13,12 @@ summary: 'Si vous n"en avez plus besoin, vous pouvez supprimer un schéma que vo
 [role="lead"]
 Si vous n'en avez plus besoin, vous pouvez supprimer un schéma que vous avez créé à partir de OnCommand Workflow Automation (WFA).
 
-.Ce dont vous avez besoin, 8217;ll
+.Ce dont vous avez besoin
 * Vous devez avoir installé WFA.
 * Vous devez disposer des privilèges d'administrateur ou des identifiants d'architecte pour WFA.
 
 
+.Description de la tâche
 Vous ne pouvez pas supprimer de schémas prédéfinis.
 
 .Étapes

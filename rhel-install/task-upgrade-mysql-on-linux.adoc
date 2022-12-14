@@ -13,11 +13,13 @@ summary: 'Vous pouvez mettre à niveau vers une version plus récente de MySQL s
 [role="lead"]
 Vous pouvez mettre à niveau vers une version plus récente de MySQL sur le serveur Linux sur lequel OnCommand Workflow Automation est installé afin d'obtenir des correctifs pour les vulnérabilités de sécurité.
 
+.Ce dont vous avez besoin
 Vous devez disposer de privilèges root pour le système Linux sur lequel WFA est installé.
 
 
 NOTE: Avant de réinstaller WFA 4.2, vous devez supprimer le répertoire de données MySQL si vous avez désinstallé MySQL.
 
+.Description de la tâche
 Vous pouvez uniquement mettre à niveau vers des mises à jour mineures de MySQL 5.7, par exemple 5.7.1 à 5.7.2 . Vous ne pouvez pas effectuer la mise à niveau vers les versions principales de MySQL, par exemple la version 5.8.
 
 .Étapes

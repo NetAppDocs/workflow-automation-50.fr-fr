@@ -13,7 +13,7 @@ summary: 'Vous pouvez effectuer une restauration complète de la base de donnée
 [role="lead"]
 Vous pouvez effectuer une restauration complète de la base de données OnCommand Workflow Automation (WFA) et des configurations prises en charge que vous avez préalablement sauvegardées à l'aide de l'interface de ligne de commandes. Dans un cadre de restauration complète, vous pouvez restaurer la base de données WFA, la configuration WFA et la clé.
 
-.Ce dont vous avez besoin, 8217;ll
+.Ce dont vous avez besoin
 * Vous devez avoir créé une sauvegarde de la base de données WFA.
 * Vous devez disposer d'informations d'identification admin ou Architect.
 

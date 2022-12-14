@@ -13,11 +13,13 @@ summary: 'Vous pouvez mettre à niveau de nouvelles versions de MySQL pour OnCom
 [role="lead"]
 Vous pouvez mettre à niveau de nouvelles versions de MySQL pour OnCommand Workflow Automation (WFA) sur le serveur Windows. Vous pouvez mettre à niveau vers une version plus récente de MySQL pour obtenir des correctifs pour les vulnérabilités de sécurité sur le serveur Windows.
 
+.Ce dont vous avez besoin
 Vous devez disposer des privilèges d'administrateur Windows et du mot de passe de L'utilisateur root MYSQL sur le serveur WFA.
 
 
 NOTE: Avant de réinstaller WFA 4.2 ou version ultérieure, vous devez avoir supprimé le répertoire de données MySQL si vous avez désinstallé MySQL.
 
+.Description de la tâche
 Vous devez connaître les limites suivantes :
 
 * Vous pouvez mettre à niveau dans n'importe quelle version de MySQL 5.7.

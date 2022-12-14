@@ -13,6 +13,7 @@ summary: 'Vous pouvez configurer la valeur de temporisation pour l"interface gra
 [role="lead"]
 Vous pouvez configurer la valeur de temporisation pour l'interface graphique Web WFA (Workflow Automation), au lieu d'utiliser la valeur de délai par défaut.
 
+.Description de la tâche
 La valeur par défaut du délai d'expiration pour l'interface graphique Web de WFA est de 180 minutes. Vous pouvez configurer la valeur du délai d'expiration pour répondre à vos exigences via l'interface de ligne de commande. Vous ne pouvez pas définir la valeur de temporisation à partir de l'interface Web de WFA.
 
 

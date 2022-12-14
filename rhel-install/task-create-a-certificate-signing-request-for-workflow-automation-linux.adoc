@@ -13,11 +13,12 @@ summary: 'Vous pouvez créer une demande de signature de certificat (CSR) dans L
 [role="lead"]
 Vous pouvez créer une demande de signature de certificat (CSR) dans Linux de sorte que vous puissiez utiliser le certificat SSL signé par une autorité de certification (CA) au lieu du certificat SSL par défaut pour Workflow Automation (WFA).
 
-.Ce dont vous avez besoin, 8217;ll
+.Ce dont vous avez besoin
 * Vous devez disposer de privilèges root pour le système Linux sur lequel vous avez installé WFA.
 * Vous devez avoir remplacé le certificat SSL par défaut fourni par WFA.
 
 
+.Description de la tâche
 Le chemin d'installation par défaut de WFA est utilisé dans cette procédure. Si vous avez modifié le chemin par défaut lors de l'installation, vous devez utiliser le chemin d'installation personnalisé de WFA.
 
 .Étapes

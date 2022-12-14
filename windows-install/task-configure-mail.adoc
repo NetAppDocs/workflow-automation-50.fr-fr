@@ -13,6 +13,7 @@ summary: 'Vous pouvez configurer OnCommand Workflow Automation (WFA) pour vous e
 [role="lead"]
 Vous pouvez configurer OnCommand Workflow Automation (WFA) pour vous envoyer des notifications par e-mail concernant les opérations de flux de travail, par exemple le flux de travail démarré ou l'échec du flux de travail.
 
+.Ce dont vous avez besoin
 Vous devez avoir configuré un hôte de messagerie dans votre environnement.
 
 .Étapes

@@ -13,7 +13,7 @@ summary: 'Vous pouvez restaurer la base de données OnCommand Workflow Automatio
 [role="lead"]
 Vous pouvez restaurer la base de données OnCommand Workflow Automation (WFA) que vous avez sauvegardée précédemment.
 
-.Ce dont vous avez besoin, 8217;ll
+.Ce dont vous avez besoin
 * Vous devez avoir créé une sauvegarde de la base de données WFA.
 * Vous devez disposer d'informations d'identification admin ou Architect.
 

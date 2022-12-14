@@ -13,7 +13,7 @@ summary: 'Une fois Workflow Automation (WFA) installé dans VCS, vous devez conf
 [role="lead"]
 Une fois Workflow Automation (WFA) installé dans VCS, vous devez configurer WFA en utilisant des scripts de configuration pour assurer une haute disponibilité
 
-.Ce dont vous avez besoin, 8217;ll
+.Ce dont vous avez besoin
 * Vous devez avoir installé la même version de WFA sur les deux nœuds du cluster.
 * Le chemin d'installation doit être identique pour les deux nœuds.
 * Vous devez créer une sauvegarde de WFA.

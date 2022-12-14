@@ -13,6 +13,7 @@ summary: 'Vous pouvez effectuer une sauvegarde complète de la base de données 
 [role="lead"]
 Vous pouvez effectuer une sauvegarde complète de la base de données OnCommand Workflow Automation (WFA) à l'aide des API REST. Dans une sauvegarde complète, la base de données WFA, la configuration WFA et la clé sont sauvegardées.
 
+.Ce dont vous avez besoin
 Vous devez disposer d'informations d'identification admin ou Architect.
 
 .Étape

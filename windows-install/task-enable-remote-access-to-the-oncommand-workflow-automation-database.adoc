@@ -13,11 +13,12 @@ summary: 'Par défaut, la base de données OnCommand Workflow Automation (WFA) e
 [role="lead"]
 Par défaut, la base de données OnCommand Workflow Automation (WFA) est accessible uniquement aux clients qui s'exécutent sur le système hôte WFA. Vous pouvez modifier les paramètres par défaut pour accéder à la base de données WFA à partir d'un système distant.
 
-.Ce dont vous avez besoin, 8217;ll
+.Ce dont vous avez besoin
 * Vous devez avoir ouvert une session sur le système hôte WFA en tant qu'utilisateur admin.
 * Si un pare-feu est installé sur le système hôte WFA, vous devez avoir configuré les paramètres de votre pare-feu pour autoriser l'accès au système distant.
 
 
+.Description de la tâche
 Le chemin d'installation par défaut de WFA est utilisé dans cette procédure. Si vous avez modifié l'emplacement par défaut lors de l'installation, vous devez utiliser le chemin d'installation personnalisé de WFA.
 
 . Ouvrez l'Explorateur Windows et accédez au répertoire suivant : `WFA_install_location\WFA\bin`

@@ -13,6 +13,7 @@ summary: Certains modules Perl ne sont pas inclus par défaut avec le package Pe
 [role="lead"]
 Certains modules Perl ne sont pas inclus par défaut avec le package Perl pour Linux.
 
+.Description de la tâche
 Au cours de l'installation de WFA, le programme d'installation de WFA vérifie que tous les modules Perl sont disponibles dans le système, puis procède lorsque cette exigence est remplie. Vous devez installer les modules Perl avant d'installer OnCommand Workflow Automation (WFA).
 
 

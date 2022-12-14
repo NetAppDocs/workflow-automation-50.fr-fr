@@ -13,7 +13,7 @@ summary: 'Vous devez établir une connexion avec une source de données dans OnC
 [role="lead"]
 Vous devez établir une connexion avec une source de données dans OnCommand Workflow Automation (WFA) pour pouvoir acquérir des données à partir de cette source.
 
-.Ce dont vous avez besoin, 8217;ll
+.Ce dont vous avez besoin
 * Pour les versions Active IQ Data Center Manager antérieures à 6.0, vous devez avoir exécuté la dernière version de l'outil ocsetup sur le serveur Data Center Manager pour activer et configurer l'accès en lecture seule à distance à la base de données.
 * Pour Active IQ Data Center Manager6.0 ou version ultérieure, vous devez avoir créé un compte d'utilisateur de base de données sur le serveur Data Center Manager.
 +
@@ -67,6 +67,7 @@ Le numéro de port TCP par défaut est 443. Consultez la documentation de votre 
 
 
 
+.Description de la tâche
 Cette procédure permet d'ajouter plusieurs sources de données de serveur Data Center Manager à WFA. Toutefois, vous ne devez pas utiliser cette procédure si vous souhaitez coupler Data Center Manager Server 6.3 et versions ultérieures à WFA et utiliser la fonctionnalité de protection du serveur Data Center Manager.
 
 Pour plus d'informations sur le couplage de WFA au serveur Data Center Manager 6.x, consultez l'aide en ligne de _OnCommand Unified Manager_.

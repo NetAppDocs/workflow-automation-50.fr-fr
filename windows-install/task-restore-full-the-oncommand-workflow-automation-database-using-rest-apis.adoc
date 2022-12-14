@@ -13,7 +13,7 @@ summary: 'Vous pouvez effectuer une restauration complète de la base de donnée
 [role="lead"]
 Vous pouvez effectuer une restauration complète de la base de données OnCommand Workflow Automation (WFA) à l'aide d'API REST. Dans un cadre de restauration complète, vous pouvez restaurer la base de données WFA, la configuration WFA et la clé.
 
-.Ce dont vous avez besoin, 8217;ll
+.Ce dont vous avez besoin
 * Vous devez avoir créé un `.zip` Sauvegarde de la base de données WFA.
 * Vous devez disposer d'informations d'identification admin ou Architect.
 * Si vous restaurez la base de données dans le cadre de la procédure de migration, vous devez effectuer une restauration complète.

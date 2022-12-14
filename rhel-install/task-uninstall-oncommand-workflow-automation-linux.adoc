@@ -13,6 +13,7 @@ summary: 'Vous pouvez désinstaller OnCommand Workflow Automation (WFA) de votre
 [role="lead"]
 Vous pouvez désinstaller OnCommand Workflow Automation (WFA) de votre ordinateur Red Hat Enterprise Linux à l'aide d'une seule commande.
 
+.Ce dont vous avez besoin
 Vous devez disposer d'un accès utilisateur root à la machine Red Hat Enterprise Linux à partir de laquelle vous souhaitez désinstaller WFA.
 
 .Étapes

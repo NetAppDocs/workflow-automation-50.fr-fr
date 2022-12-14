@@ -13,8 +13,10 @@ summary: 'Vous pouvez sauvegarder la base de données OnCommand Workflow Automat
 [role="lead"]
 Vous pouvez sauvegarder la base de données OnCommand Workflow Automation (WFA) à partir du portail Web et utiliser le fichier de sauvegarde pour la restauration des données. Vous ne pouvez pas effectuer de sauvegarde complète à partir du portail Web.
 
+.Ce dont vous avez besoin
 Vous devez disposer des informations d'identification admin ou Architect pour effectuer cette tâche.
 
+.Description de la tâche
 Un utilisateur WFA ayant le rôle de sauvegarde ne peut pas se connecter au portail Web pour effectuer une sauvegarde. Les utilisateurs WFA ayant un rôle de sauvegarde ne peuvent effectuer que des sauvegardes à distance ou par script.
 
 .Étapes

@@ -13,7 +13,7 @@ summary: 'Vous pouvez installer OnCommand Workflow Automation (WFA) pour créer 
 [role="lead"]
 Vous pouvez installer OnCommand Workflow Automation (WFA) pour créer et personnaliser des flux de travail de stockage en vue d'automatiser les tâches de stockage effectuées dans votre environnement.
 
-.Ce dont vous avez besoin, 8217;ll
+.Ce dont vous avez besoin
 * Vous devez avoir passé en revue les conditions préalables à l'installation.
 +
 xref:reference-prerequisites-for-installing-workflow-automation.adoc[Conditions préalables à l'installation de Workflow Automation]

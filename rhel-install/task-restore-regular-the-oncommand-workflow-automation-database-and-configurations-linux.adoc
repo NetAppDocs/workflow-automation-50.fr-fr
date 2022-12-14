@@ -13,7 +13,7 @@ summary: 'Vous pouvez effectuer une restauration régulière de la base de donn�
 [role="lead"]
 Vous pouvez effectuer une restauration régulière de la base de données OnCommand Workflow Automation (WFA) que vous avez sauvegardée précédemment à l'aide de l'interface de ligne de commandes. Lors d'une restauration régulière, vous ne pouvez restaurer que la base de données WFA.
 
-.Ce dont vous avez besoin, 8217;ll
+.Ce dont vous avez besoin
 * Vous devez avoir créé une sauvegarde de la base de données WFA.
 * Vous devez disposer d'informations d'identification admin ou Architect.
 

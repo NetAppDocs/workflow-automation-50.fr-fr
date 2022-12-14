@@ -13,8 +13,10 @@ summary: 'Vous pouvez sauvegarder et restaurer la base de données OnCommand Wor
 [role="lead"]
 Vous pouvez sauvegarder et restaurer la base de données OnCommand Workflow Automation (WFA) et les configurations prises en charge, afin de pouvoir restaurer les données en cas d'incident. Les configurations prises en charge incluent l'accès aux données, le délai d'attente HTTP et les certificats SSL.
 
+.Ce dont vous avez besoin
 Vous devez disposer des privilèges d'administrateur ou des informations d'identification d'architecte.
 
+.Description de la tâche
 Vous devez créer la sauvegarde dans un emplacement sécurisé, car la restauration de la sauvegarde permet d'accéder à tous les systèmes de stockage auxquels WFA accède.
 
 [NOTE]

@@ -13,6 +13,7 @@ summary: 'Vous pouvez installer et configurer Workflow Automation (WFA) dans un 
 [role="lead"]
 Vous pouvez installer et configurer Workflow Automation (WFA) dans un environnement Microsoft Cluster Service (MSCS) pour configurer la haute disponibilité et assurer un basculement. Avant d'installer WFA, vous devez vérifier que tous les composants requis sont configurés correctement.
 
+.Description de la tâche
 Une configuration haute disponibilité assure une prise en charge constante des opérations applicatives. Si l'un des composants tombe en panne, le composant mis en miroir dans la configuration prend le relais et fournit des ressources réseau sans interruption.
 
 

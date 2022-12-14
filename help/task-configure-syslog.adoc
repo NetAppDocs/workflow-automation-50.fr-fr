@@ -13,6 +13,7 @@ summary: 'Vous pouvez configurer OnCommand Workflow Automation (WFA) pour qu"il 
 [role="lead"]
 Vous pouvez configurer OnCommand Workflow Automation (WFA) pour qu'il envoie des données de journal à un serveur Syslog spécifique à des fins telles que la journalisation des événements et l'analyse des informations de journal.
 
+.Ce dont vous avez besoin
 Vous devez avoir configuré le serveur Syslog pour accepter les données du serveur WFA.
 
 .Étapes

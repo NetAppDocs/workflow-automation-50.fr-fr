@@ -13,11 +13,12 @@ summary: 'Vous devez créer un schéma lorsque les données doivent être mises 
 [role="lead"]
 Vous devez créer un schéma lorsque les données doivent être mises en cache à partir d'un nouveau type de source de données ou lorsque les données doivent être stockées par des flux de travail directement dans la base de données.
 
-.Ce dont vous avez besoin, 8217;ll
+.Ce dont vous avez besoin
 * Vous devez avoir installé WFA.
 * Vous devez disposer des privilèges d'administrateur ou des identifiants d'architecte pour WFA.
 
 
+.Description de la tâche
 Par défaut, WFA prend en charge deux types de schémas : l'acquisition des sources de données et autres.
 
 * Schémas d'acquisition des sources de données : les tables de ces schémas sont mises en cache par des sources de données définies pour acquérir des données à partir de systèmes distants.
