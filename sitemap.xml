@@ -13,13 +13,6 @@
   
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-advanced-configuring-oncommand-workflow-automation.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/concept-advanced-configuring-oncommand-workflow-automation.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
@@ -34,7 +27,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-backing-up-the-wfa-database-using-rest-apis.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-advanced-configuring-oncommand-workflow-automation.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -48,7 +41,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-backing-up-the-wfa-database-using-the-command-line-interface.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-backing-up-the-wfa-database-using-rest-apis.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -56,6 +49,13 @@
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/concept-backing-up-the-wfa-database-using-the-command-line-interface.html</loc>
+      
+      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-backing-up-the-wfa-database-using-the-command-line-interface.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -244,14 +244,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-managing-high-availability.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/concept-managing-high-availability.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/concept-managing-high-availability.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-managing-high-availability.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -272,13 +272,6 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-oncommand-workflow-automation-deployment-architecture.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/concept-oncommand-workflow-automation-deployment-architecture.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
@@ -286,7 +279,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-oncommand-workflow-automation-installation-and-configuration-instructions.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-oncommand-workflow-automation-deployment-architecture.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -300,7 +293,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-overview-of-oncommand-workflow-automation.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-oncommand-workflow-automation-installation-and-configuration-instructions.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -328,7 +321,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-restoring-the-oncommand-workflow-automation-database-using-cli.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-overview-of-oncommand-workflow-automation.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -342,7 +335,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-restoring-the-oncommand-workflow-automation-database-using-rest-api.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-restoring-the-oncommand-workflow-automation-database-using-cli.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -356,7 +349,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-restoring-the-wfa-database.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-restoring-the-oncommand-workflow-automation-database-using-rest-api.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -370,7 +363,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-set-up-oncommand-workflow-automation.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-restoring-the-wfa-database.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -378,6 +371,13 @@
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/concept-setting-up-oncommand-workflow-automation.html</loc>
+      
+      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-set-up-oncommand-workflow-automation.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -419,14 +419,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-wfa-data-sources.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/concept-wfa-data-sources.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/concept-wfa-data-sources.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/concept-wfa-data-sources.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -622,14 +622,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-backing-up-of-the-oncommand-workflow-automation-database.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-backing-up-of-the-oncommand-workflow-automation-database.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-backing-up-of-the-oncommand-workflow-automation-database.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-backing-up-of-the-oncommand-workflow-automation-database.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -657,14 +657,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-cannot-view-performance-advisor-data-in-wfa.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-cannot-view-performance-advisor-data-in-wfa.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-cannot-view-performance-advisor-data-in-wfa.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-cannot-view-performance-advisor-data-in-wfa.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -741,13 +741,6 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-configuring-a-database-user-on-datafabric-manager.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-configuring-a-database-user-on-datafabric-manager.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
@@ -755,7 +748,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-considerations-of-importing-wfa-content.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-configuring-a-database-user-on-datafabric-manager.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -777,6 +770,13 @@
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/reference-considerations-of-importing-wfa-content.html</loc>
+      
+      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-considerations-of-importing-wfa-content.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -1084,14 +1084,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-managing-oncommand-workflow-automation-ssl-certificates.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-managing-oncommand-workflow-automation-ssl-certificates.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-managing-oncommand-workflow-automation-ssl-certificates.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-managing-oncommand-workflow-automation-ssl-certificates.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -1245,13 +1245,6 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-pack-identification-during-upgrade.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-pack-identification-during-upgrade.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
@@ -1260,6 +1253,13 @@
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/reference-pack-identification-during-upgrade.html</loc>
+      
+      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-pack-identification-during-upgrade.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -1294,14 +1294,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-ports-required-for-oncommand-workflow-automation.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-ports-required-for-oncommand-workflow-automation.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-ports-required-for-oncommand-workflow-automation.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-ports-required-for-oncommand-workflow-automation.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -1315,14 +1315,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-prerequisites-for-installing-workflow-automation.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-prerequisites-for-installing-workflow-automation.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-prerequisites-for-installing-workflow-automation.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-prerequisites-for-installing-workflow-automation.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -1357,13 +1357,6 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-related-documentation-for-oncommand-workflow-automation.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-related-documentation-for-oncommand-workflow-automation.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
@@ -1372,6 +1365,13 @@
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/reference-related-documentation-for-oncommand-workflow-automation.html</loc>
+      
+      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-related-documentation-for-oncommand-workflow-automation.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -1476,14 +1476,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-troubleshooting.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-troubleshooting.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/reference-troubleshooting.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/reference-troubleshooting.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -1534,26 +1534,33 @@
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50//search.html</loc>
       
-      <lastmod>2022-11-16T11:40:18+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-access-oncommand-workflow-automation.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-15T12:21:44+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-access-oncommand-workflow-automation.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-access-oncommand-workflow-automation.html</loc>
+      
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-add-a-new-remote-system-type.html</loc>
+      
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-add-active-directory-group-names.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -1567,7 +1574,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-add-active-directory-group-names.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-add-an-upgraded-unified-manager-server-data-source.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -1575,13 +1582,6 @@
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-add-an-upgraded-unified-manager-server-data-source.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-add-an-upgraded-unified-manager-server-data-source.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -1604,126 +1604,119 @@
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-add-entity-to-a-workflow-automation-pack.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-back-up-and-restore-the-wfa-database-and-configurations-windows.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-back-full-oncommand-workflow-automation-database-using-rest-api.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-back-up-full-oncommand-workflow-automation-database-using-rest-api.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-back-up-full-the-wfa-database-using-perl-script-linux.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-back-full-oncommand-workflow-automation-database-using-rest-api.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-back-up-full-the-wfa-database-using-perl-script-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-back-up-oncommand-workflow-automation-database-using-the-web-portal.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-back-up-full-the-wfa-database-using-perl-script-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-back-up-oncommand-workflow-automation-database-using-the-web-portal.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-back-up-oncommand-workflow-automation-database-using-the-web-portal.html</loc>
+      
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-back-up-oncommand-workflow-automation-using-powershell-script.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-back-up-regular-oncommand-workflow-automation-database-using-rest-api.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-back-up-regular-oncommand-workflow-automation-database-using-rest-api.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-back-up-regular-the-wfa-database-using-perl-script-linux.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-back-up-regular-oncommand-workflow-automation-database-using-rest-api.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-back-up-regular-the-wfa-database-using-perl-script-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-back-up-regular-the-wfa-database-using-perl-script-linux.html</loc>
+      
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-back-up-the-wfa-database-and-configurations-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-check-in-a-new-pack-to-scm.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-check-in-a-new-version-of-a-pack-to-a-new-location-in-scm.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-check-in-an-already-existing-pack-into-scm.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-a-database-user-by-running-ocsetup-on-linux.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
@@ -1742,7 +1735,7 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-a-database-user-by-running-ocsetup-on-windows.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-a-database-user-by-running-ocsetup-on-linux.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -1763,6 +1756,13 @@
     </url>
   
     <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-a-database-user-by-running-ocsetup-on-windows.html</loc>
+      
+      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      
+    </url>
+  
+    <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-configure-an-earlier-version-of-wfa-foir-high-availability-windows.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
@@ -1777,30 +1777,23 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-authentication-settings.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-configure-authentication-settings.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-configure-authentication-settings.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-autosupport.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-authentication-settings.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
@@ -1819,44 +1812,44 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-configure-email-notifications-for-data-source-acquisition-failures.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-autosupport.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-mail.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-configure-email-notifications-for-data-source-acquisition-failures.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-configure-mail.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-configure-mail.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-mail.html</loc>
+      
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-configure-mscs-to-install-wfa.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-protocols-for-connecting-to-remote-systems.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
@@ -1875,14 +1868,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-configure-resource-reservation-for-workflows.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-protocols-for-connecting-to-remote-systems.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-snmp.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-configure-resource-reservation-for-workflows.html</loc>
       
       <lastmod>2022-11-16T11:40:02+00:00</lastmod>
       
@@ -1891,140 +1884,147 @@
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-configure-snmp.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-configure-snmp.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-syslog.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-snmp.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-configure-syslog.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-configure-syslog.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-the-credentials-of-a-target-system.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-syslog.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-configure-the-credentials-of-a-target-system.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-configure-the-credentials-of-a-target-system.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-the-credentials-of-a-target-system.html</loc>
+      
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-the-timeout-value-for-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-configure-the-timeout-value-for-windows.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-vcs-to-install-wfa.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-configure-wfa-with-mscs-using-configuration-scripts.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-wfa-with-vcs-using-configuration-scripts-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-configure-your-preferred-perl-distribution-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-configure-your-preferred-perl-interpreter.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-create-a-cache-query.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-create-a-certificate-signing-request-for-workflow-automation-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-create-a-certificate-signing-request-for-workflow-automation-windows.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-create-a-command.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-create-a-data-source-type.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
@@ -2038,42 +2038,42 @@
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-create-a-filter.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-create-a-finder.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-create-a-function.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-create-a-scheme.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-create-a-support-case-for-wfa.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-create-a-support-case-for-wfa.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-create-a-support-case-for-wfa.html</loc>
+      
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
@@ -2101,63 +2101,63 @@
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-create-a-workflow.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-create-local-users.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-create-local-users.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-create-local-users.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-create-local-users.html</loc>
+      
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-create-recurring-schedules.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-create-workflow-help-content.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-create-workflow-help-content.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-customize-predefined-workflows.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-customize-the-create-volume-and-create-cifs-share-workflow.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
@@ -2178,7 +2178,7 @@
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-delete-a-scheme.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
@@ -2206,119 +2206,119 @@
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-disable-the-default-password-policy-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-disable-the-default-password-policy.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-edit-a-scheme.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-enable-remote-access-to-the-oncommand-workflow-automation-database-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-enable-remote-access-to-the-oncommand-workflow-automation-database.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-export-oncommand-workflow-automation-content.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-export-oncommand-workflow-automation-content.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-fully-restore-the-oncommand-workflow-automation-database-using-clis-windows.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-import-an-oncommand-workflow-automation-pack.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-import-oncommand-workflow-automation-content.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-import-oncommand-workflow-automation-content.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-import-oncommand-workflow-automation-content.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-import-oncommand-workflow-automation-content.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-import-oncommand-workflow-automation-content.html</loc>
+      
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-install-oncommand-workflow-automation.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-install-perl-module-on-centos-and-rhel.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-install-workflow-automation-on-windows.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-manage-site-specific-perl-modules.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
@@ -2339,42 +2339,42 @@
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-modify-the-default-password-policy-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-modify-the-default-password-policy-windows.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-modify-the-transaction-timeout-setting-of-oncommand-workflow-automation-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-modify-the-transaction-timeout-setting-of-oncommand-workflow-automation.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-regular-restore-of-the-oncommand-workflow-automation-database-using-clis-windows.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-remove-entities-from-a-pack.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
@@ -2388,147 +2388,147 @@
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-replace-the-default-workflow-automation-ssl-certificate-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-replace-the-default-workflow-automation-ssl-certificate.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-reset-the-admin-password-created-during-installation-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-reset-the-admin-password-created-during-installation.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-restore-full-the-oncommand-workflow-automation-database-and-configurations-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-restore-full-the-oncommand-workflow-automation-database-using-rest-apis.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-restore-full-the-oncommand-workflow-automation-database-using-rest-apis.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-restore-oncommand-workflow-automation-database-using-web-portal.html</loc>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-restore-full-the-oncommand-workflow-automation-database-using-rest-apis.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-restore-oncommand-workflow-automation-database-using-web-portal.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-restore-oncommand-workflow-automation-database-using-web-portal.html</loc>
+      
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-restore-regular-the-oncommand-workflow-automation-database-and-configurations-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-restore-regular-the-oncommand-workflow-automation-database-using-rest-apis.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-restore-regular-the-oncommand-workflow-automation-database-using-rest-apis.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-restore-regular-the-oncommand-workflow-automation-database-using-rest-apis.html</loc>
+      
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-restrict-access-rights-of-oncommand-workflow-automation-on-the-host.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-rollback-pack-to-a-previous-version-in-scm.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-set-up-a-data-source.html</loc>
-      
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-set-up-a-data-source.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/help/task-set-up-a-data-source.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-set-up-a-data-source.html</loc>
+      
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-set-up-wfa-in-mscs.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-set-up-wfa-in-vcs.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-test-the-wfa-reservation-script-for-commands.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-uninstall-oncommand-workflow-automation-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
@@ -2549,56 +2549,56 @@
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-uninstall-wfa-in-an-mscs-environment.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/workflows/task-update-the-pack-from-scm.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-upgrade-active-state-perl-on-windows.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-upgrade-from-oncommand-workflow-automation-3-1-or-later-on-windows.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-upgrade-from-wfa-4-2.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-upgrade-jre-on-windows-wfa.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-upgrade-mysql-on-linux.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/windows-install/task-upgrade-mysql-on-windows-wfa.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
@@ -2612,7 +2612,7 @@
     <url>
       <loc>https://docs.netapp.com/fr-fr/workflow-automation-50/rhel-install/task-upgrade-openjdk-on-linux-ocum.html</loc>
       
-      <lastmod>2022-11-16T11:40:02+00:00</lastmod>
+      <lastmod>2022-12-14T18:17:19+00:00</lastmod>
       
     </url>
   
